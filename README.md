@@ -1,7 +1,8 @@
 # _Camera - Image Picker._
 
 ## *Developed by using React Native, .*
-npm i react-native-camera
+##### npm i react-native-camera
+##### npm install react-native-image-picker
 
 #### Camera (with Audio and Barcode Scanner)
 https://www.npmjs.com/package/react-native-camera
